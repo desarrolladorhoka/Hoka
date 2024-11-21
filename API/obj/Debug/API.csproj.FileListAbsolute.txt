@@ -1,0 +1,4 @@
+C:\Users\dportal\Desktop\API\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\dportal\Desktop\API\API\obj\Debug\API.csproj.SuggestedBindingRedirects.cache
+C:\Users\dportal\Desktop\API\API\obj\Debug\API.exe.config
+C:\Users\dportal\Desktop\API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
