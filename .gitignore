@@ -1,0 +1,36 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Directorios de entorno virtual
+venv/
+env/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Archivos de dependencia
+node_modules/
+vendor/
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos específicos de Visual Studio
+.vs/
